@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/04/14/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test_my_site</title>
+    <url>/2020/02/21/test-my-site/</url>
+    <content><![CDATA[<h1 id="TEST"><a href="#TEST" class="headerlink" title="TEST"></a>TEST</h1><ul>
+<li><p>视频提供了功能强大的方法帮助您证明您的观点。当您单击联机视频时，可以在想要添加的视频的嵌入代码中进行粘贴。您也可以键入一个关键字以联机搜索最适合您的文档的视频。</p>
+</li>
+<li><p>为使您的文档具有专业外观，word 提供了页眉、页脚、封面和文本框设计，这些设计可互为补充。例如，您可以添加匹配的封面、页眉和提要栏。单击“插入”，然后从不同库中选择所需元素。</p>
+</li>
+<li><p>主题和样式也有助于文档保持协调。当您单击设计并选择新的主题时，图片、图表或 smartart 图形将会更改以匹配新的主题。当应用样式时，您的标题会进行更改以匹配新的主题。</p>
+</li>
+<li><p>使用在需要位置出现的新按钮在 word 中保存时间。若要更改图片适应文档的方式，请单击该图片，图片旁边将会显示布局选项按钮。当处理表格时，单击要添加行或列的位置，然后单击加号。</p>
+</li>
+</ul>
+<p>　　1. 在新的阅读视图中阅读更加容易。</p>
+<p>　　2. 可以折叠文档某些部分并关注所需文本。</p>
+<p>　　3. 如果在达到结尾处之前需要停止读取，word 会记住您的停止位置 即使在另一个设备上。</p>
+<br />
+
+<img src="/2020/02/21/test-my-site/example.jpg" class="" title="This is an example image">
+
+<br />
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.</p>
+<p><em>Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.<br>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.</em></p>
+<p><strong>Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.</strong></p>
+<p><font color=#0099ff>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. </font></p>
+<br />
+
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>newpage</title>
+    <url>/2020/04/14/newpage/</url>
+    <content><![CDATA[<h1 id="博客迁移"><a href="#博客迁移" class="headerlink" title="博客迁移"></a>博客迁移</h1><p>git add .<br>git commit -m “…”<br>git push </p>
+<p>hexo g -d</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>自我介绍</title>
+    <url>/2020/02/29/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<p><strong>《自我介绍》</strong></p>
+<p><em>谷川俊太郎</em></p>
+<p><em>译者 田原</em></p>
+<br/>
+我是一位矮个子的秃老头 
+
+<p>在半个多世纪之间 </p>
+<p>与名词、动词、助词、形容词和问号等一起 </p>
+<p>磨练语言生活到了今天 </p>
+<p>说起来我还是喜欢沉默 </p>
+<p>我喜欢各种各样的工具 </p>
+<p>也喜欢树木和灌木丛 </p>
+<p>可是，我不善于记住它们的名称 </p>
+<p>我对过去的日子不感兴趣 </p>
+<p>对权威持有反感 </p>
+<p>我有着一双既斜视又有乱视的老花眼</p>
+<p>家里虽没摆有佛龛和神龛 </p>
+<p>却有连接室内巨大的信箱 </p>
+<p>对于我，睡眠是一种快乐 </p>
+<p>梦即使做了，醒来时也全会忘光 </p>
+<p>写在这里的虽然都是事实 </p>
+<p>但这样写出来 总觉得像在撒谎 </p>
+<p>我有两位分开居住的孩子和四个孙子但没养猫狗 </p>
+<p>夏天基本上是穿着T恤衫度过 </p>
+<p>我创作的语言有时也会标上价格 </p>
+]]></content>
+  </entry>
+</search>
